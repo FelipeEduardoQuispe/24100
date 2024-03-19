@@ -1,0 +1,24 @@
+/*
+    COMENTARIOS
+*/
+/* selector unversal */
+*{
+    /*
+    margin: 10px;
+    padding: 0;
+    */
+}
+/* selector de tipo */
+p {
+    font-size: 50px;
+}
+/* selector de clases para modificar algo en especifico */
+.parrafo {
+    color: red;
+}
+/* selector id */
+#subtitulo {
+    color: blue;
+    font-size: 30px;
+    
+}
